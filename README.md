@@ -149,6 +149,8 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 ```
+## New contribution:
+We plan to enhance the system by retrieving objects from the client side through the utilization of our custom RESTful API.
 
 ## Bugs
 No known bugs at this time. 
@@ -158,6 +160,9 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Lisa Powell-Kuyk - [Github](https://github.com/LisaPowell1991) / [Twitter](https://twitter.com/lisapowell46)
+Kelvin Njoroge Gachihi - [Github](https://github.com/KelvinoKing) / [Twitter](https://twitter.com/KelvinoNjoroge)
+
 
 Second part of Airbnb: Joann Vuong
 ## License
