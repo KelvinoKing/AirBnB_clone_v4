@@ -3,7 +3,7 @@ $(document).ready(function () {
 
   $('input[type="checkbox"]').change(function () {
     const amenityId = $(this).data('id');
-    const amenityName = $(this).data('name')
+    const amenityName = $(this).data('name');
 
     if ($(this).is(':checked')) {
       checkedAmenities[amenityId] = amenityName;
@@ -16,8 +16,6 @@ $(document).ready(function () {
 
   function updateAmenities () {
     const amenityNames = Object.values(checkedAmenities);
-    console.log(amenityNames);
-
     $('.amenities h4').text(amenityNames.join(', '));
   }
 });
